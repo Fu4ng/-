@@ -1,0 +1,102 @@
+body{
+    background-image: url("http://img.taopic.com/uploads/allimg/140401/318753-140401135S222.jpg");
+}
+.head{
+    background-color: #222222;
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:100%;
+    height: 65px;
+}
+.login{
+    color:white;
+    position: relative;
+    left: 50%;
+    top:20%;
+}
+.forgot{
+    position:absolute;
+    left:170px;
+    top: 100%;
+    color: white;
+    font-size: 12px;
+    font-weight: 100;
+    text-decoration: none;
+
+}
+.register{
+    background-color: #cccccc;
+    width: 350px;
+    height: 400px;
+    margin: 0 auto;
+    margin-top:5%;
+    font-weight: 100;
+}
+.great{
+    width:250px;
+    margin: 0 auto;
+    text-align:center;
+    font-size: 20px;
+
+}
+.register form{
+    margin-left: 10%;
+    font-size: 10px;
+    font-weight:200;
+}
+.join{
+    background-color: darkorange;
+    width:290px;
+    height: 40px;
+    margin:0 auto;
+    border: none;
+}
+.bt{
+    height: 23px;
+    border: none;
+    background-color: #999999;
+    color: black;
+    font-weight: 100;
+
+}
+.foot{
+    background-color: #222222;
+    position:absolute;
+    left:0px;
+    top:73%;
+    width: 100%;
+    height: 200px;
+    color: white;
+    margin: 0 auto;
+}
+.search{
+    margin: 0 auto;
+    width: 650px;
+    font-size: 12px;
+}
+.directory{
+    width:100%;
+    text-align:center;
+    color:white;
+    font-weight: 100;
+    font-size: 12px;
+    margin: 0 auto;
+}
+.left{
+    position:absolute;
+    left:20%;
+    width:400px;
+    height:65px;
+    color:white;
+}
+.right{
+    position:absolute;
+    left:60%;
+    width:150px;
+    height:65px;
+    color:white;
+}
+
+
+
