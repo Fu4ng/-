@@ -22,6 +22,7 @@ body{
     font-weight:normal;
 }
 .view #view_title h4 a{
+    text-decoration：none;
     float: right;
     font-size: 12px;
     font-weight: bold;
